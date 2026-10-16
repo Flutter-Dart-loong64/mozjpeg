@@ -13,6 +13,7 @@
 #include "../../jsimd.h"
 #include "../../jdct.h"
 #include "../../jsimddct.h"
+#include "../../jchuff.h"
 
 GLOBAL(int)
 jsimd_can_rgb_ycc(void)
